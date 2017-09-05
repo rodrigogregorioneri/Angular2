@@ -6,7 +6,7 @@ import { Component } from '@angular/core'; // importação de um decorator prime
 })
 
 
-// classe ECMA 6
+// classe ECMA 6 
 class AppComponent{
 
     
