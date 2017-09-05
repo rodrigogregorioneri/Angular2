@@ -18,6 +18,6 @@ import { AppComponent } from './app.component' // Componente criado na pasta app
    declarations: [ AppComponent],
    bootstrap: [AppComponent]
 })
-class AppModule{
+export class AppModule{
 
 }
