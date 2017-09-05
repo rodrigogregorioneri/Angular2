@@ -2,7 +2,8 @@ import { Component } from '@angular/core'; // importação de um decorator prime
 
 // Decorators Component importado acima e abaixo ele é usado como anotação 
 @Component({
- selector: 'app'
+ selector: 'app',
+ templateUrl: '.app/app.component.html'
 })
 
 
